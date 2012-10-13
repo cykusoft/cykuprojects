@@ -7,6 +7,13 @@ import javax.swing.JFrame;
 
 public class AppSetting extends JFrame{
     public AppSetting(){
+        initComponents();
+        installKeyboards();
+    }
+    private void initComponents(){
+        
+    }
+    private void installKeyboards(){
         
     }
     public static void main(String [] args) throws SQLException{
